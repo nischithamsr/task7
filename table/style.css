@@ -1,0 +1,15 @@
+table,th,td {
+   
+   border: 1px solid gray;
+   text-align: center;
+   padding: 10px;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color: rgba(96, 121, 147, 0.333);
+}
+tr{
+    background-color: rgb(248, 240, 230);
+}
